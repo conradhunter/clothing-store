@@ -15,16 +15,16 @@ const Footer = () => {
                 <h6>How can we help you?</h6>
                 <ul id='footer__link--list'>
                     <li>
-                        <Link className='footer__link' to=''>Home</Link> 
+                        <Link className='footer__link' to='/'>Home</Link> 
                     </li>
                     <li>
-                        <Link className='footer__link' to=''>About</Link> 
+                        <Link className='footer__link' to='/about'>About</Link> 
                     </li>
                     <li>
-                        <Link className='footer__link' to=''>Store</Link> 
+                        <Link className='footer__link' to='/store'>Store</Link> 
                     </li>
                     <li>
-                        <Link className='footer__link' to=''>Contact</Link> 
+                        <Link className='footer__link' to='/contact'>Contact</Link> 
                     </li>
                     <li>
                         <Link className='footer__link' to=''>Privacy Policy</Link> 

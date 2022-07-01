@@ -15,22 +15,22 @@ const Nav = () => {
       <div id="nav__links--container">
         <ul id="nav__link--list">
           <li>
-            <Link className="nav__bar--link" to="">
+            <Link className="nav__bar--link" to="/">
               Home
             </Link>
           </li>
           <li>
-            <Link className="nav__bar--link" to="">
+            <Link className="nav__bar--link" to="/about">
               About
             </Link>
           </li>
           <li>
-            <Link className="nav__bar--link" to="">
+            <Link className="nav__bar--link" to="/store">
               Store
             </Link>
           </li>
           <li>
-            <Link className="nav__bar--link" to="">
+            <Link className="nav__bar--link" to="/contact">
               Contact
             </Link>
           </li>
